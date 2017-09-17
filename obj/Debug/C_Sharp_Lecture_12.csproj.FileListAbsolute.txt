@@ -1,0 +1,7 @@
+C:\Users\Maxim\source\repos\C_Sharp_Lecture_12\C_Sharp_Lecture_12\bin\Debug\C_Sharp_Lecture_12.exe.config
+C:\Users\Maxim\source\repos\C_Sharp_Lecture_12\C_Sharp_Lecture_12\bin\Debug\C_Sharp_Lecture_12.exe
+C:\Users\Maxim\source\repos\C_Sharp_Lecture_12\C_Sharp_Lecture_12\bin\Debug\C_Sharp_Lecture_12.pdb
+C:\Users\Maxim\source\repos\C_Sharp_Lecture_12\C_Sharp_Lecture_12\obj\Debug\C_Sharp_Lecture_12.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\source\repos\C_Sharp_Lecture_12\C_Sharp_Lecture_12\obj\Debug\C_Sharp_Lecture_12.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\C_Sharp_Lecture_12\C_Sharp_Lecture_12\obj\Debug\C_Sharp_Lecture_12.exe
+C:\Users\Maxim\source\repos\C_Sharp_Lecture_12\C_Sharp_Lecture_12\obj\Debug\C_Sharp_Lecture_12.pdb
